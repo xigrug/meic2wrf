@@ -6,3 +6,4 @@ Origin: https://github.com/jinfan0931/meic2wrf
 * A no-GUI script for command line user
 * Add `ll_area_new` for more accurent meic grid area(using [geojson-area](https://github.com/scisco/area)) and `meic2wrf_interp` for linear interpolation instead of nearest interpolation, especially for wrf with a high spatial resolution
 * Example namelist and corresponding wrfinput file
+ just test
